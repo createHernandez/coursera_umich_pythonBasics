@@ -1,0 +1,29 @@
+header {
+    background-color: #8b8b8b;
+
+}
+
+h1 {
+    color: #ffffff; 
+    text-transform: capitalize;
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff; 
+    text-transform: capitalize;
+}
+
+section {
+    background-color: #a1a1a1;
+}
+
+a {
+    background-color: #a1a1a1;
+    color: #000000
+}
+
+img {
+    display: none; 
+} 
+
